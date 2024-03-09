@@ -1,1 +1,22 @@
 /* This is a CSS file */
+
+/* Solution to Q1 */
+#box{
+    background-color: blue;
+}
+
+/* Solution to Q2 */
+
+/* solution1 */
+/* .heading{
+    color: red;
+} */
+/* solution 2 */
+h1, h2, h3{
+    color: red;
+}
+
+/* Solution to Q3 */
+button{
+    background-color: green;
+}
